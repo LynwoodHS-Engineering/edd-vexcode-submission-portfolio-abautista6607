@@ -39,9 +39,9 @@ print("\033[2J")
 
 # ------------------------------------------
 # 
-# 	Project:      VEXcode Project
-#	Author:       VEX
-#	Created:
+# 	Project:      VEXcode Project sensor to actuator
+#	Author:       Anthony Bautista
+#	Created:      1-17-25
 #	Description:  VEXcode V5 Python Project
 # 
 # ------------------------------------------
